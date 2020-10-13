@@ -1,7 +1,5 @@
 # Weakly Supervised Medical Images Segmentation
 
-This is an implementation of the [Weakly-Supervised Segmentation for DiseaseLocalization in Chest X-Ray Images](https://github.com/ucuapps/WSMIS) by Ostap Viniavskiy, Maria Dobko, and Oles Dobosevych.
-
 
 ## Overview
 We proposed a three-step approach to weakly-supervised semantic segmentation, which uses only 
